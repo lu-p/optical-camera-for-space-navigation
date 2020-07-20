@@ -5,6 +5,7 @@ This simulator aims to evaluate the operative range of an optical camera sensor 
 
 
 What you have to do:
+
 •	Run initialization camera.m,
 
 •	Enjoy results,
